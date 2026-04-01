@@ -9,6 +9,7 @@ Hi! This is my personal workspace for practicing Machine Learning. I use this re
 
 ## Tools I use:
 * Python
+* Numpy
 * Pandas
 * Scikit-Learn
 * Matplotlib & Seaborn
