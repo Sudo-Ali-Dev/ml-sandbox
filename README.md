@@ -13,3 +13,4 @@ Hi! This is my personal workspace for practicing Machine Learning. I use this re
 * Pandas
 * Scikit-Learn
 * Matplotlib & Seaborn
+* YData Profiling
